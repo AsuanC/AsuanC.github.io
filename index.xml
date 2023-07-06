@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asuan小笨蛋的主页</title>
+    <title>Asuans的部落格</title>
     <link>https://asuanc.github.io/</link>
-    <description>Recent content on Asuan小笨蛋的主页</description>
+    <description>Recent content on Asuans的部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://asuanc.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@ Hello World! </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://asuanc.github.io/about/</guid>
-      <description>关于我 我是Elon，一名CSer，热爱使用Emacs编辑器，坚定支持自由软件运动。2001年出生的我，钟情于纯音乐和播客的世界。眼下，我正在北京攻读研究生学位。</description>
+      <description>关于我 额外附一首小诗： 如果你会， 我想， 这太酷啦！ —— to Asuan</description>
     </item>
     
     <item>
